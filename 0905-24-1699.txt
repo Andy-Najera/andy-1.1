@@ -1,0 +1,8 @@
+i. ¿Qué aprendiste sobre el flujo de trabajo con Git y GitHub?
+- Aprendí a usar ramas, hacer commits, resolver conflictos y cómo colaborar eficientemente con GitHub.
+
+ii. ¿Cómo fue la experiencia de trabajar en parejas? ¿Encontraste algún conflicto? ¿Cómo lo resolviste?
+- Trabajé al lado de mi compañero Geofrey e intentamos hacerlo juntos en un solo repositorio perp debido a que nos surgieron varios errores decidimos hacerlo en repositorios diferentes pero siempre ayudándonos mutuamente.
+
+iii. ¿Qué ventajas crees que tiene usar Git en proyectos de programación?
+- Git permite un control eficiente de versiones, facilita la colaboración, y ayuda a resolver conflictos de manera ordenada.
